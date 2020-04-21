@@ -184,8 +184,7 @@ main .site-title .btn:hover{
 
 
 /*-----Blog Carousel------*/
-
-main .blog{
+.blog{
     background-image: url('../Assets/Abract01.png');
     background-repeat: no-repeat;
     background-position: right;
@@ -193,9 +192,6 @@ main .blog{
     width: 100%;
     background-size: 65%;
 }
-
-
-
 
 /* Viewport less then or equal to 750px */
 
